@@ -98,3 +98,4 @@ for img in file_list:
             cropped_img.save(os.path.join(new_directory,f'cropped_{img}'))
 
 splist_dataset(os.path.join('./img','face_cropped','後藤ひとり_コスプレ'))
+
